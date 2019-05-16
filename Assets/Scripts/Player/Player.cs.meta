@@ -1,0 +1,24 @@
+fileFormatVersion: 2
+guid: b4fafc1ee1f544748859e1c314b63ffa
+timeCreated: 1508425380
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - rb: {instanceID: 0}
+  - sprite: {instanceID: 0}
+  - dashSprite: {fileID: 21300000, guid: f17ab156252cf1e4fa4474dcb8322a0e, type: 3}
+  - dashSpriteFireball: {fileID: 21300000, guid: 788582cac7862b44c841d89ef3c4f241,
+      type: 3}
+  - idleSprite: {fileID: 21300000, guid: 8864d38269b55a1458c4ec45f8ff5598, type: 3}
+  - idleSpriteFireball: {fileID: 21300000, guid: 860d70fd53f37f742960bb4b623a183f,
+      type: 3}
+  - prefabBullet: {fileID: 1729209500211256, guid: 76b1b7711c077dc4ab47200acfe63a47,
+      type: 2}
+  - prefabExplosion: {fileID: 1314286265636002, guid: 4fe8d5bddae9aa643a751c51b5c8e9a9,
+      type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
